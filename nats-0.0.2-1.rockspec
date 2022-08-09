@@ -7,10 +7,6 @@ source = {
 }
 
 description = {
-   summary = "LUA client for NATS messaging system. https://nats.io",
-   detailed = [[
-      LUA client for NATS messaging system. https://nats.io
-   ]],
    homepage = "http://github.com/DawnAngel/lua-nats",
    license = "MIT"
 }
