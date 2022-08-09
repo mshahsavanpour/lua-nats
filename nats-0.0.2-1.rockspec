@@ -12,7 +12,6 @@ description = {
       LUA client for NATS messaging system. https://nats.io
    ]],
    homepage = "http://github.com/DawnAngel/lua-nats",
-   maintainer = "Eric Pinto <ericpinto1985@gmail.com>",
    license = "MIT"
 }
 
